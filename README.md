@@ -1,2 +1,2 @@
-# merge-conflict-practice
-Practicing source control and merge conflicts 
+# second-branch
+Practicing source control and merge conflicts
